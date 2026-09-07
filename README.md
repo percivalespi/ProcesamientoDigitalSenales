@@ -8,7 +8,7 @@ Integrantes:
 
 ## Estructura del repositorio
 ~~~
-|ProcesamientoSenalesDigitales/
+|ProcesamientoDigitalSenales/
 ├── Tarea1/                      # Tarea 1: Signals & Time-Domain Analysis
 |    ├── Tarea1.pdf                 >  Tarea 1 / Papel
 |    ├── Tarea1.ipynb               >  Tarea 1 Colab Code (Archivo)
