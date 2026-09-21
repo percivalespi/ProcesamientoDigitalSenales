@@ -14,8 +14,8 @@ Equipo 2 - Integrantes:
 |    ├── Tarea1.ipynb                   >  Tarea 1 Colab Code (Archivo)
 |    ├── Enlaces_Tarea1.txt             >  Enlaces (Link Google Collab + VideoYT)
 ├── Tarea2/                      # Tarea 2: Correlation & Cross-Correlation
-|    ├── Tarea2_PDS_Equipo2.pdf         >  Tarea 1 / Papel
-|    ├── Tarea2_Equipo02_.ipynb         >  Tarea 1 Colab Code (Archivo)
+|    ├── Tarea2_PDS_Equipo2.pdf         >  Tarea 2 / Papel
+|    ├── Tarea2_Equipo02_PDS.ipynb         >  Tarea 2 Colab Code (Archivo)
 |    ├── Enlaces_Tarea2_Equipo02.txt    >  Enlaces (Link Google Collab + VideoYT)
 └── README.md                    # Archivo Pagina Principal Github
 ~~~
