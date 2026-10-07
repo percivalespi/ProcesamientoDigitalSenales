@@ -17,9 +17,13 @@ Equipo 2 - Integrantes:
 |    ├── Tarea2_PDS_Equipo2.pdf         >  Tarea 2 / Papel
 |    ├── Tarea2_Equipo02_PDS.ipynb      >  Tarea 2 Colab Code (Archivo)
 |    ├── Enlaces_Tarea2_Equipo02.txt    >  Enlaces (Link Google Collab + VideoYT)
+├── Tarea2/                      # Tarea 2: Correlation & Cross-Correlation
+|    ├── Tarea3_PDS_Equipo2.pdf         >  Tarea 3 / Papel
+|    ├── Tarea3_Equipo02_PDS.ipynb      >  Tarea 3 Colab Code (Archivo)
+|    ├── Enlaces_Tarea3_Equipo02.txt    >  Enlaces (Link Google Collab)
 ├── Proyecto1/                   # Proyecto 1: FFT Mariposas
-|    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.pdf          >  Tarea 2 / Papel
-|    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.ipynb        >  Tarea 2 Colab Code (Archivo)
+|    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.pdf          >  Proyecto Documentación
+|    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.ipynb        >  Proyecto Colab Code (Archivo)
 |    ├── Enlaces_Proyecto1_FFT_Mariposas_PDS_Equipo2.txt  >  Enlaces (Link Google Collab)
 └── README.md                    # Archivo Pagina Principal Github
 ~~~
