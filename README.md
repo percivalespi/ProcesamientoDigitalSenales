@@ -23,8 +23,8 @@ Equipo 2 - Integrantes:
 |    ├── Enlaces_Tarea3_Equipo02.txt    >  Enlaces (Link Google Collab)
 ├── Tarea4/                      # Tarea 4: Entregas individuales
 |    ├── Tarea04_TRZ_320317264.pdf      >  Tarea 4 / Papel (García Cortés Adolfo)
-|    ├── Tarea04_TRZ_320206968.pdf >  Tarea 4 / Papel (Lugo Manzano Rodrigo)
-|    ├── Tarea04_TRZ_320025561.pdf >  Tarea 4 / Papel (Espinoza Matamoros Percival Ulises)
+|    ├── Tarea04_TRZ_320206968.pdf      >  Tarea 4 / Papel (Lugo Manzano Rodrigo)
+|    ├── Tarea04_TRZ_320025561.pdf      >  Tarea 4 / Papel (Espinoza Matamoros Percival Ulises)
 ├── Proyecto1/                   # Proyecto 1: FFT Mariposas
 |    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.pdf          >  Proyecto Documentación
 |    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.ipynb        >  Proyecto Colab Code (Archivo)
