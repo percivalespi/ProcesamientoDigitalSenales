@@ -27,7 +27,10 @@ Equipo 2 - Integrantes:
 |    ├── Tarea04_TRZ_320025561.pdf      >  Tarea 4 / Papel (Espinoza Matamoros Percival Ulises)
 ├── Proyecto1/                   # Proyecto 1: FFT Mariposas
 |    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.pdf          >  Proyecto Documentación
-|    ├── Proyecto1_FFT_Mariposas_PDS_Equipo2.ipynb        >  Proyecto Colab Code (Archivo)
+|    ├── ProyectoP1_Equipo02_PSD.ipynb                    >  Proyecto Colab Code (Archivo)
 |    ├── Enlaces_Proyecto1_FFT_Mariposas_PDS_Equipo2.txt  >  Enlaces (Link Google Collab)
+├── Proyecto2/                   # Proyecto 2: Diseño Interactivo de Filtros Digitales
+|    ├── ProyectoP2_Equipo02_PSD.ipynb                             >  Proyecto Colab Code (Archivo)
+|    ├── Enlaces_Proyecto2_Diseno_Interactivo_Filtros_Equipo2.txt  >  Enlaces (Link Google Collab)
 └── README.md                    # Archivo Pagina Principal Github
 ~~~
