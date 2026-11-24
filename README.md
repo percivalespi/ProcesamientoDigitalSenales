@@ -32,5 +32,9 @@ Equipo 2 - Integrantes:
 ├── Proyecto2/                   # Proyecto 2: Diseño Interactivo de Filtros Digitales
 |    ├── ProyectoP2_Equipo02_PSD.ipynb                             >  Proyecto Colab Code (Archivo)
 |    ├── Enlaces_Proyecto2_Diseno_Interactivo_Filtros_Equipo2.txt  >  Enlaces (Link Google Collab)
-└── README.md                    # Archivo Pagina Principal Github
+├── ProyectoFinal/                   # Proyecto Final: Diseño de Filtros FIR
+|    ├── ProyectoFinal_DisenoFiltrosFIR_PDS_Equipo2.pdf          >  Proyecto Documentación
+|    ├── ProyectoFinal_Equipo02_PDS.ipynb                        >  Proyecto Colab Code (Archivo)
+|    ├── Enlaces_ProyectoFinal_DisenoFiltrosFIR_PDS_Equipo2.txt  >  Enlaces (Link Google Collab)
+└── README.md                    # Achivo Pagina Principal Github
 ~~~
